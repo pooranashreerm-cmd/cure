@@ -1,0 +1,6 @@
+{
+  "name": "Curevia",
+  "description": "Smart Medicine Reminder & EHR Companion for Patients, Doctors, Community Health Workers, and Pharmacies.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
